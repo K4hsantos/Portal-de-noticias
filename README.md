@@ -5,7 +5,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 </p>
 
 <p align="center">
-   <a href="k4hsantos.github.io/Portal-de-noticias/" target="_blank"
+   <a href="https://k4hsantos.github.io/Portal-de-noticias/" target="_blank"
    >Portal de notícias</a
 </p>
 
