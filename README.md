@@ -1,11 +1,19 @@
-<h1 align="center"> Portal de noticias </h1>
+
+<br>
+<p align="center">
+Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+</p>
+
+<p align="center">
+   <a href="k4hsantos.github.io/Portal-de-noticias/" target="_blank"
+   >Portal de notícias</a
+</p>
+
+</p>
+<br>
 
 <br>
 
-<p align="center">
-   <a target="_blank"](https://k4hsantos.github.io/Portal-de-noticias/)
-   >Portal de noticias</a
-</p>
 
 ## 🚀 Tecnologias
 
@@ -14,10 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## 💻 Projeto
+ ## Projeto
 
+![Captura de tela 2024-11-06 173042](https://github.com/user-attachments/assets/84e94e02-b2b3-4ba3-a170-22bd19ef62b9)
 
-
-
-
-![Captura de tela 2024-11-06 173042](https://github.com/user-attachments/assets/0c98f757-749a-4565-8a7d-7c3a261c3420)
