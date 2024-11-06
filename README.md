@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-   <a href="https://k4hsantos.github.io/Pagina-de-receita/" target="_blank"
+   <a target="_blank"](https://k4hsantos.github.io/Portal-de-noticias/)
    >Portal de noticias</a
 </p>
 
